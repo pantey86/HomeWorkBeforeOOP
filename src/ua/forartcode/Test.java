@@ -13,6 +13,21 @@ public class Test {
 //        NumberUtils.canDivideEachOther ();
 //        NumberUtils.compareOfLastDigits();
 
+//        AdditionalUtils.isTriangle();
+//        AdditionalUtils.posTripleNegTo0();
+//        AdditionalUtils.threeDigitNumber();
+//        AdditionalUtils.compareOfSpeed();
+//        AdditionalUtils.compareOfThreeNumbers();
+//        AdditionalUtils.findTimeToArrive();
+//        AdditionalUtils.showSeason();
+//        AdditionalUtils.calaulateFinalPrice();
+//        AdditionalUtils.recomendPerfectWeight();
+//        AdditionalUtils.calculateCallPrice();
+//        AdditionalUtils.printMoneyMsg();
+//        AdditionalUtils.showWindSpeedMsg();
+//        AdditionalUtils.threeNumbTransform();
+//        AdditionalUtils.isLuckyNumber();
+//        AdditionalUtils.compareOfCircleAndSquare();
 
     }
 }
