@@ -17,12 +17,12 @@ public class AdditionalUtils {
         System.out.println("Enter third side of triangle: ");
         double c = sc.nextDouble();
 
-        if (a + b > c && a + c > b && b + c > a)
-            if (a*a + b*b == c*c ||c*c + b*b == a*a ||a*a + c*c == b*b )
+        if (a + b > c && a + c > b && b + c > a) {
+            if (a * a + b * b == c * c || c * c + b * b == a * a || a * a + c * c == b * b)
                 System.out.println("Your triangle is right-angled ");
             else
                 System.out.println("Your triangle is NOT right-angled ");
-        else
+        } else
             System.out.println("You CANNOT create a triangle with such sides");
 
         sc.close();
