@@ -29,5 +29,11 @@ public class Test {
 //        AdditionalUtils.isLuckyNumber();
 //        AdditionalUtils.compareOfCircleAndSquare();
 
+//        ExtendedUtils.factorial();
+//        ExtendedUtils.count8();
+//        ExtendedUtils.changeFrom10To2Code();
+//        ExtendedUtils.changeFrom2To10Code();
+
+
     }
 }
