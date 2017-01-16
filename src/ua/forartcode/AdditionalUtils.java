@@ -18,7 +18,10 @@ public class AdditionalUtils {
         double c = sc.nextDouble();
 
         if (a + b > c && a + c > b && b + c > a)
-            System.out.println("You can create a triangle with such sides");
+            if (a*a + b*b == c*c ||c*c + b*b == a*a ||a*a + c*c == b*b )
+                System.out.println("Your triangle is right-angled ");
+            else
+                System.out.println("Your triangle is NOT right-angled ");
         else
             System.out.println("You CANNOT create a triangle with such sides");
 
